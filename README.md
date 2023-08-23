@@ -33,9 +33,9 @@ Entre otras
   [Google-Yelp](https://github.com/](https://github.com/ArtemioLopez/final_proyect))
 
 ## Contacto:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() <br>
-artilopez2892@gmail.com <br>
-[!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() <br> 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()<br>
+artilopez2892@gmail.com<br>
+[!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()<br> 
 www.linkedin.com/in/artemio-lopez-608468266
 
   
