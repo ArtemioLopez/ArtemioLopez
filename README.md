@@ -28,7 +28,7 @@ Entre otras
 - Data Engineer & MLOps: <br>
   [Movies](https://github.com/ArtemioLopez/data-engineer)
 - Data Analytics: <br>
-  [Analytics-Telecomunicaciones]([https://github.com/ArtemioLopez/data-engineer](https://github.com/ArtemioLopez/Data-Analytics)
+  [Analytics-Telecomunicaciones](https://github.com/ArtemioLopez/Data-Analytics)
 - Proyecto Grupal: <br>
   [Google-Yelp](https://github.com/](https://github.com/ArtemioLopez/final_proyect))
 
