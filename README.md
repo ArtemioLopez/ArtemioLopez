@@ -24,6 +24,20 @@ Inicié mi recorrido académico en el Bootcamp de Data Science de Soy Henry, don
 
 Entre otras
 
+## Proyectos 
+- Data Engineer & MLOps:
+  [Movies](https://github.com/ArtemioLopez/data-engineer)
+- Data Analytics:
+  [Analytics-Telecomunicaciones]([https://github.com/ArtemioLopez/data-engineer](https://github.com/ArtemioLopez/Data-Analytics)
+- Proyecto Grupal: 
+  [Google-Yelp]([https://github.com/](https://github.com/ArtemioLopez/final_proyect))
+
+## Contacto:
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white artilopez2892@gmail.com
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white www.linkedin.com/in/artemio-lopez-608468266
+
+  
+
 <!--
 **ArtemioLopez/ArtemioLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
