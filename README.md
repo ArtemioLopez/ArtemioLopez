@@ -25,11 +25,11 @@ Inicié mi recorrido académico en el Bootcamp de Data Science de Soy Henry, don
 Entre otras
 
 ## Proyectos 
-- Data Engineer & MLOps:
+- Data Engineer & MLOps: <br>
   [Movies](https://github.com/ArtemioLopez/data-engineer)
-- Data Analytics:
+- Data Analytics: <br>
   [Analytics-Telecomunicaciones]([https://github.com/ArtemioLopez/data-engineer](https://github.com/ArtemioLopez/Data-Analytics)
-- Proyecto Grupal: 
+- Proyecto Grupal: <br>
   [Google-Yelp](https://github.com/](https://github.com/ArtemioLopez/final_proyect))
 
 ## Contacto:
