@@ -30,7 +30,7 @@ Entre otras
 - Data Analytics: <br>
   [Analytics-Telecomunicaciones](https://github.com/ArtemioLopez/Data-Analytics)
 - Proyecto Grupal: <br>
-  [Google-Yelp](https://github.com/](https://github.com/ArtemioLopez/final_proyect))
+  [Google-Yelp](https://github.com/ArtemioLopez/final_proyect))
 
 ## Contacto:
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()<br>
